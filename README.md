@@ -48,7 +48,7 @@
 French Tarot is a strategic trick-taking card game played with a 78-card Tarot Nouveau deck. It combines:
 
 - **Bidding phase** — Players bid (Petite, Garde, Garde Sans, Garde Contre) to become the *Taker*
-- **Card play** — Taker plays alone against 3 *Defenders* (or partners with a called King in 5-player mode)
+- **Card play** — Taker plays alone against the 3 *Defenders*
 - **Announcements** — Optional bonuses: Poignée (Handful), Chelem (Grand Slam), Pas de prise (No-bid)
 - **Scoring** — Based on captured points + Trumps (Atouts), Kings, Queens, Knights, Knaves, plus the "oudlers" (1, 21, Excuse)
 
